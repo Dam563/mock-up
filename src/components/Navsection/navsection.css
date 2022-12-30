@@ -1,0 +1,44 @@
+.navsection{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+    position: sticky;
+}
+.nav-sec-one{
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.search-btn{
+    width: 20px;
+    position: relative;
+    z-index: 1;
+    left: -25px;
+    top: 0.5px;
+    cursor: pointer;
+}
+.navs{
+    margin-left: 10px;
+}
+.link-nav{
+    text-decoration: none;
+}
+.nav-logo{
+    width: 40px;
+}
+.home-icon{
+    width: 20px;
+}
+.nav-avatar{
+    width: 30px;
+}
+.nav-links{
+    display: flex;
+}
+.smalllogo{
+    display: flex;
+    gap: 10px;
+    margin-left: 40px;
+}

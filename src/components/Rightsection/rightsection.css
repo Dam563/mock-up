@@ -1,0 +1,97 @@
+
+.right-section{
+    width: 20%;
+    height: 270vh;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+.first-sections{
+    background-color: white;
+    font-size: 12px;
+    padding: 15px 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.more-image{
+    width: 20%;
+    margin-left: 70px;
+    margin-bottom: 5px;
+}
+.more-images{
+    width: 30%;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.head-sect, .third-sections-head{
+    display: flex;
+    justify-content: space-between;
+    /* width: 100%; */
+    border-bottom: 1px solid grey;
+}
+.logo-img{
+    width: 80px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.first-section-text{
+    border-bottom: 1px solid grey;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+.learnmore-link{
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+}
+.div-one{
+    display: flex;
+}
+.div-two{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.role{
+    display: flex;
+    gap: 10px;
+}
+.first-role{
+    margin-top: 15px;
+}
+.second-sections{
+    background-color: white;
+    font-size: 12px;
+    padding: 20px 10px;
+    margin-bottom: 20px;
+}
+.second-sections-heading{
+    margin-bottom: 10px;
+}
+.third-sections{
+    background-color: white;
+    font-size: 12px;
+    padding: 20px 10px;
+    margin-bottom: 20px;
+}
+.third-section-heading{
+    margin-bottom: 15px;
+}
+.fourth-section{
+    background-color: white;
+    padding: 20px 15px;
+    font-size: 12px;
+}
+.fourth-section-link{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+}
+.fourth-section-heading{
+    display: flex;
+    border-bottom: 1px solid grey;
+}

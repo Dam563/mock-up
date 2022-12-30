@@ -1,0 +1,16 @@
+.company-list{
+    padding: 40px 35px;
+    font-size: 20px;
+}
+ul{
+    text-align: center;
+    list-style: none;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: flex;
+    gap: 30px;
+}
+.lorem{
+    margin-top: 10px;
+    line-height: 24px;
+}
