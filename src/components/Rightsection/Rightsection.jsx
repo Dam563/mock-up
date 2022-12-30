@@ -16,7 +16,7 @@ const Rightsection = () => {
             <p>Pay only for the Hours worked</p> 
             </div>
             <h3>Sign up</h3>
-            <a href="" className='learnmore-link'>Learn More</a>
+            <a href="#" className='learnmore-link'>Learn More</a>
         </div>
           <div className="second-sections">
             <div className="head-sect">
